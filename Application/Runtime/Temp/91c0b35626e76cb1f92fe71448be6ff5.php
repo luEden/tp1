@@ -1,0 +1,3 @@
+<?php
+//000000000000a:5:{s:2:"id";s:1:"1";s:8:"username";s:5:"admin";s:7:"role_id";s:2:"12";s:9:"rule_list";a:3:{i:0;s:13:"admin/goods/1";i:1;s:15:"admin/goods/add";i:2;s:16:"admin/goods/dels";}s:5:"menus";a:2:{i:0;a:7:{s:2:"id";s:1:"1";s:9:"rule_name";s:12:"商品管理";s:11:"module_name";s:5:"admin";s:15:"controller_name";s:5:"goods";s:11:"action_name";s:1:"1";s:9:"parent_id";s:1:"0";s:7:"is_show";s:1:"1";}i:1;a:7:{s:2:"id";s:1:"2";s:9:"rule_name";s:12:"商品添加";s:11:"module_name";s:5:"admin";s:15:"controller_name";s:5:"goods";s:11:"action_name";s:3:"add";s:9:"parent_id";s:1:"1";s:7:"is_show";s:1:"1";}}}
+?>
